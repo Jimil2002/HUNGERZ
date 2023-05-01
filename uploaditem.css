@@ -144,6 +144,6 @@ p{
     }
     .f_btn{
         display: flex;
-        justify-content: space-evenly;
+        justify-content: space-evenly;    
     }
 }
